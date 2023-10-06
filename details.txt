@@ -1,0 +1,5 @@
+Hi there this is the detail page 
+
+Complete GUI and db has been established between the frontend and backend in the project of registration page
+
+Contributions are allowed :)
